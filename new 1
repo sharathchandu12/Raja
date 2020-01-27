@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="A website to manage waste">
+    <title>Dechets</title>
+  </head>
+  <body>
+    <h2>Dechets</h2>
+    <hr/>
+    <p>This is my <b><i>paragraph</i></b></p>
+    <p>This is my another paragraph</p>
+  </body>
+</html>

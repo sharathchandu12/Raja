@@ -1,0 +1,2 @@
+module EPAMtask3 {
+}
